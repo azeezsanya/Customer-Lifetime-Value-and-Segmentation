@@ -1,7 +1,7 @@
-# Customer-Lifetime-Value-and-Segmentation
+# Customer-Segmentation-and-Customer-Lifetime-Value-prediction
 Customer LTV Prediction and Customer Segmentation
 
-**Why should companies care about the lifetime values of their customers?**
+**Why should companies care about segemneting customers and measuring their lifetime values?**
 
 
 It's now a known fact that the power of effective Data Science and Analytics has been felt by almost all the business industries with the retail sector being the most impacted. The competition within the retail industry/e-commerce, is growing every day and if a company wants to remain relevant in this industry, using data to capture its customers is definitely one thing to consider. Leveraging the power of data with the aim of using the insights to entice and retain customers as well as generate profits is very important for the survival of every company.
