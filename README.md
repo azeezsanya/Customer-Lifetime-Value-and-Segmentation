@@ -32,7 +32,7 @@ Transaction.csv: Transaction of customers
 
 Product_cat_info.csv : Product information
 
-Data cleaning
+Data cleaning and Pre-Processing
 * Remove null-values
 * Check reversed transactions
 * Do some feature engineering like customer age
