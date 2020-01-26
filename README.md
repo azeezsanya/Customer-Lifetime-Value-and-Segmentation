@@ -10,9 +10,9 @@ Retail companies use key metrics like total amount spent, average order, how oft
 
 These 3 metrics (RFM) are important when analysing customer value
 
-Recency – How recently did the customer purchase?
-Frequency – How often do they purchase?
-Monetary Value – How much do they spend?
+* Recency – How recently did the customer purchase?
+* Frequency – How often do they purchase?
+* Monetary Value – How much do they spend?
 
 Customer intelligence (CI) is the process of gathering and analyzing information regarding customers – their details and activities – to create efficient and more effective customer relationships and improve decision-making by retail organizations. In a nutshell, for big retail players all over the world, data analytics is applied more these days at all stages of the retail process – tracking popular products that are emerging, forecasting sales and future demand via predictive simulation, optimizing placements of products and offers through heat-mapping of customers and many others.
 
