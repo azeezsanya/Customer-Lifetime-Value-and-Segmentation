@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Customer-Lifetime-Value-prediction
+# Customer-Segmentation-and-Lifetime-Value-prediction
 Customer LTV Prediction and Customer Segmentation
 
 **Why should companies care about segemneting customers and measuring their lifetime values?**
