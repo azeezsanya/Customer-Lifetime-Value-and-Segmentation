@@ -22,6 +22,8 @@ Customer intelligence (CI) is the process of gathering and analyzing information
 > * Download the dataset [here](https://drive.google.com/drive/folders/1z8uUQBl12Fu-3eY9CGDVd_RfpUipzrj2?usp=sharing)
 > * Data_link.txt file contain the link to the dataset on kaggle.com
 
+**Project Process**
+
 There are 3 files in the Dataset
 
 Customer.csv: Customer information including demographics
@@ -29,3 +31,13 @@ Customer.csv: Customer information including demographics
 Transaction.csv: Transaction of customers
 
 Product_cat_info.csv : Product information
+
+Data cleaning
+* Remove null-values
+* Check reversed transactions
+* Do some feature engineering like customer age
+* Drop some unwanted columns
+* Merge the 3 dataset
+* Change the data type of some of the columns to the appropriate data type
+
+EDA
