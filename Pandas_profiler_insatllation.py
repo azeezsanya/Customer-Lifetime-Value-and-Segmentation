@@ -20,4 +20,7 @@ Or use ``Pip install`` on window terminal.
 
 # NOTE: #
 
-Kindly create a new environemnt to install this package as there might be some dependencies with numpy and pandas versions. By installing the profiler, numpy, pandas, and matplotlib will automatically be installed.  This is because the profiler is built and depends on these packages, so they must be installed for it to work.  If there are any other packages you need to work remeber to instal them on this environment.
+Kindly create a new environemnt to install this package as there might be some dependencies with numpy and pandas versions. 
+By installing the profiler, numpy, pandas, and matplotlib will automatically be installed.  
+This is because the profiler is built and depends on these packages, so they must be installed for it to work.  
+If there are any other packages you need to work remeber to instal them on this environment.
