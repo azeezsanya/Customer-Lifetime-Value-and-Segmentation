@@ -21,6 +21,8 @@ Customer intelligence (CI) is the process of gathering and analyzing information
 > * In this project,  I will be focusing on Customer Lifetime Value (LTV) prediction using RFM, Customer Segmentation and (probably) Sale Forecast.
 > * Download the dataset [here](https://drive.google.com/drive/folders/1z8uUQBl12Fu-3eY9CGDVd_RfpUipzrj2?usp=sharing)
 > * Data_link.txt file contain the link to the dataset on kaggle.com
+> * The dataset contain about 23053 customer transactions between (January 2011 to February 2014)
+
 
 **Project Process**
 
