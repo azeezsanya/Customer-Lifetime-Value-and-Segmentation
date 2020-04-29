@@ -1,4 +1,4 @@
-[Image description](CLV)
+[Image description](CLV.png)
 
 # Customer-Segmentation-and-Lifetime-Value-prediction
 Customer LTV Prediction and Customer Segmentation
